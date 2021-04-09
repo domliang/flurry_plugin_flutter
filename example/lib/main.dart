@@ -1,6 +1,7 @@
-import 'package:flurry/flurry.dart';
-import 'package:flutter/material.dart';
 import 'dart:async';
+
+import 'package:flurry_event/flurry.dart';
+import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
 
